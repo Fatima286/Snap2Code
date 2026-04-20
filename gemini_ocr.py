@@ -1,6 +1,6 @@
 from google import genai
 import base64
-client = genai.Client(api_key="AIzaSyAHbY30h-zQg5iq8lU-w-aHM5smb9JJwd8")
+client = genai.Client(api_key="...")
 
 
 # your interactions.create call here
