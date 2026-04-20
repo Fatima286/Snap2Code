@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+easyocr_models/
+.env
+DFDs/
+Sample codeImages/
+node_modules/
